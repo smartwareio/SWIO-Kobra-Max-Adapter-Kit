@@ -17,7 +17,7 @@ Anycubic has reversed the stepper phase on the X motor for some Max printers. We
 - Install a logic level shifter such as the Sparkfun BOB.
 - Set a spare pin of your board to 3.3V out constant
 - Wire the 3.3V to the LV pin on the BOB12009
-- Wire 5V tot he HV pin on the BOB12009
+- Wire a 5V mainboard pin to the HV pin on the BOB12009
 - Jump GND together on both sides of the BOB12009, then run that to a GND pin on your mainboard
 - Wire the PRB coming from the adapter board to HV1
 - Wire the LV1 to the probe pin to your motherboard.
