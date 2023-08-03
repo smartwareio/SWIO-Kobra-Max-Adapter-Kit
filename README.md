@@ -21,4 +21,4 @@ Anycubic has reversed the stepper phase on the X motor for some Max printers. We
 - Jump GND together on both sides of the BOB12009, then run that to a GND pin on your mainboard
 - Wire the PRB coming from the adapter board to HV1
 - Wire the LV1 to the probe pin to your motherboard.
-**Most shifters do not have mounting provisions as they are tiny. You can hot glue it or modify the board adapter plate to have some tabs for it if you wish.**
+- **Most shifters do not have mounting provisions as they are tiny. You can hot glue it or modify the board adapter plate to have some tabs for it if you wish.**
