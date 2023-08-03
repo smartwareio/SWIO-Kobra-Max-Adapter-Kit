@@ -1,1 +1,7 @@
-Here you will find pre-made STLs to print for mounting various boards and solutions
+Here you will find pre-made STLs to print for mounting various boards and solutions.
+
+The NF103 mount will slot the JST adapter board next to the NF103 (bed heater board). If you are using an SKR board (any SKR board), you may omit the NF103. If you DO install the NF103, be sure to print the spacer and put it between the board and mount. This is to prevent the mounting screws from hitting anything under the board.
+
+All spacers are designed to take 2mm and 3mm heat-sets. You can check the DXF folder for the outlines and model your own without heat-sets, however this is not recommended for parts that generate heat/hold current carrying electronics.
+
+Be sure to print these in a filament that can withstand the environmental temperatures you intend to run the printer in.
