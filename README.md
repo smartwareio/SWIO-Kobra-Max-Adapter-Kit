@@ -26,7 +26,7 @@ Anycubic has reversed the stepper phase on the X motor for some Max printers. We
 #### Wiring the Swap Board (under development)
 
 - [FAN0 / FAN1](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/blob/main/installation/fans.md)
-- Heater (extruder)
+- [Heater (extruder)](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/blob/main/installation/heater.md)
 - Thermistor (extruder)
 - Z Optical (deprecated)
 - Filament Runout Sensor
