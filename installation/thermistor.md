@@ -7,4 +7,4 @@ From the **Swap Board** to the **SKR 3 EZ**:
 
 ![image](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/assets/139072083/4d00e42e-40c5-4644-a0b9-c657a7fb3c9a)
 
-[Return to installation header](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/tree/main#wiring-the-swap-board-under-development)
+[Return to installation header](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit#wiring-the-swap-board)
