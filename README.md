@@ -1,4 +1,4 @@
-# Welcome to the documentation for the SWIO Kobra Max Swap Kit. Here you will find the documentation required to utilize the Swap Board and Extruder Board in the kit. Please note that this kit is currently in _beta_ and is a _work in progress_.
+# Welcome to the documentation for the SWIO Kobra Max Swap Kit. Here you will find the documentation required to utilize the _Swap Board_ and _Extruder Board_ in the kit. Please note that this kit is currently in BETA and is a _work in progress_.
 
 **Found this page without knowing about the product? Get it [here](https://www.smartwareio.com/product/kobra-max-mainboard-and-print-head-kit/9)!**
 
