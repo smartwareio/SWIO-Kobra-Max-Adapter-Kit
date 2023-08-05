@@ -5,9 +5,12 @@
 - A set of JST-XH connectors and pins
 - Some 20-22ga stranded wire. Ribbon cable that comes with Dupont kits is hit or miss here. For the heater jumper, we recommend that you use 20-22AWG silicone (high heat) wire.
 
+[**Recommended crimper and JST kit here** (Amazon)](https://a.co/d/1XShu2j)
+[**Recommended wire for 2-wire connections here** (Amazon)](https://a.co/d/a2KRyb4)
+
 Start by selecting a board. **We recommend using the BTT SKR 3 EZ.** The pinout and wiring diagrams will be provided here.
 
-Be sure to match GND to GND on your board for every connection. The Smartware boards are marked, but not all printer boards are. You will need to refer to the _pin schedule_ for your particular board to ensure that this is correct. **Getting these wrong or reversed will result in errors and improper machine operation.**
+Be sure to match GND to GND on your board for every connection. The Smartware boards are marked, but not all printer boards are. You will need to refer to the [_pin schedule_](https://github.com/bigtreetech/SKR-3/blob/master/Hardware%20(SKR%203%20EZ)/BIGTREETECH%20SKR%203%20EZ%20V1.0-PIN.pdf) for your particular board to ensure that this is correct. **Getting these wrong or reversed will result in errors and improper machine operation.**
 
 Anycubic has reversed the stepper phase on the X motor for some Max printers. We have corrected for this in the adapter board, but your milage may vary here. If your X stepper moves in the wrong direction, you will need to reverse one connector end for your motor.
 
