@@ -4,10 +4,13 @@
 - A pair of JST crimpers
 - A set of JST-XH connectors and pins
 - Some 20-22ga stranded wire. Ribbon cable that comes with Dupont kits is hit or miss here. For the heater jumper, we recommend that you use 20-22AWG silicone (high heat) wire.
+- _Optional, but recommended_: A ferrule crimper and ferrules for shortening or attaching multiple conductors together
 
 [**Recommended crimper and JST kit here** (Amazon)](https://a.co/d/1XShu2j)
 
 [**Recommended wire for 2-wire connections here** (Amazon)](https://a.co/d/a2KRyb4)
+
+[**Ferrule and crimper kit**](https://a.co/d/f5aQqXo)
 
 Start by selecting a board. **We recommend using the BTT SKR 3 EZ.** The pinout and wiring diagrams will be provided here.
 
