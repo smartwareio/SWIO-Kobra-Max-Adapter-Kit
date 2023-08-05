@@ -1,5 +1,5 @@
 # How to wire the filament runout sensor
-_Please note that there will be two ways to go about this_ If you are using the factory print head and have only swapped the mainboard, you will only be connecting to the **Swap Board**.
+_Please note that there will be two ways to go about this_. If you are using the factory print head and have only swapped the mainboard, you will only be connecting to the **Swap Board**.
 If you are using both the **Swap Board** _and_ the **Extruder Board**, you will need to run a new length of cable directly from the SKR to the top of your frame. This is because the runout sensor in the factory location will no longer work for you, and you have converted to Direct Drive.
 
 ## "I am reusing the factory Kobra Max Print head":
