@@ -5,4 +5,4 @@ The connection terminates directly in front of the left Z motor. A 3-pin JST ext
 
 ![image](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/assets/139072083/533a4357-cdfe-4d24-8594-e3a553da8923)
 
-[Return to installation header](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/blob/main/README.md#wiring-the-swap-board-under-development)
+[Return to installation header](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit#wiring-the-swap-board)
