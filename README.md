@@ -17,7 +17,7 @@ Anycubic has reversed the stepper phase on the X motor for some Max printers. We
 
 ### If you are using the factory strain gauge and omitting the Extruder Board:
 
-- Install a logic level shifter such as the Sparkfun BOB.
+- Install a logic level shifter such as the [Sparkfun BOB](https://www.sparkfun.com/products/12009).
 - Set a spare pin of your board to 3.3V out constant
 - Wire the 3.3V to the LV pin on the BOB12009
 - Wire a 5V mainboard pin to the HV pin on the BOB12009
