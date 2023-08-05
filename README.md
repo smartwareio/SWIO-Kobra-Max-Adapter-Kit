@@ -11,7 +11,9 @@
 
 [**Recommended crimper and JST kit here** (Amazon)](https://a.co/d/1XShu2j)
 
-[**Recommended wire for 2-wire connections here** (Amazon)](https://a.co/d/a2KRyb4)
+[**Recommended cable for 2-wire connections here** (Amazon)](https://a.co/d/a2KRyb4)
+
+[**Recommended cable for 4-wire connections here** (Amazon)](https://a.co/d/iKrw6fq)
 
 [**Ferrule and crimper kit**](https://a.co/d/f5aQqXo)
 
