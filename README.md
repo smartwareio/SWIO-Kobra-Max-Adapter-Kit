@@ -22,3 +22,20 @@ Anycubic has reversed the stepper phase on the X motor for some Max printers. We
 - Wire the LV1 to the probe pin to your motherboard
 - **Most shifters do not have mounting provisions as they are tiny. You can hot glue it or modify the board adapter plate to have some tabs for it if you wish.**
 - **The level shifter is REQUIRED to be used with the factory print head. The factory head sends 5V out into the GPIO upon reset. The shifter brings this to safe levels.**
+
+#### Wiring the Swap Board (under development)
+
+- FAN0 / FAN1
+- Heater (extruder)
+- Thermistor (extruder)
+- Z Optical (deprecated)
+- Filament Runout Sensor
+- X Stop
+- Y Stop
+- E Motor
+- X Motor
+- Y Motor
+- Z0 Motor, Z1 Motor (and special note)
+- Factory Kobra Max connections
+- Factory strain gauge/toolhead & required Logic Level Shifter
+- NF103 Heater Board
