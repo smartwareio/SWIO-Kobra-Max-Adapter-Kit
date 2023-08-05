@@ -40,7 +40,7 @@ Anycubic has reversed the stepper phase on the X motor for some Max printers. We
 - X Stop
 - Y Stop
 - E Motor
-- X Motor
+- X Motor (special note)
 - Y Motor
 - Z0 Motor, Z1 Motor (and special note)
 - Factory Kobra Max connections
