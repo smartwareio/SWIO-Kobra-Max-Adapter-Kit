@@ -1,4 +1,4 @@
-# How to wire the X-Stop
+# How to wire the Y-Stop
 
 From the **Swap Board** to the **SKR 3 EZ**:
 
