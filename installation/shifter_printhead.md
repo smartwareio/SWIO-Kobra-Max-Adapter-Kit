@@ -18,3 +18,5 @@ From the **Swap Board** to the **SKR 3 EZ**:
 - Run a wire from LED to RGB PE6. _You will not use the other pins on RGB._
 
 ![image](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/assets/139072083/d990462d-854e-40e7-b60e-4a5a26f215d4)
+
+[Return to installation header](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/blob/main/installation/shifter_printhead.md)
