@@ -7,7 +7,7 @@ From the **Swap Board** to the **SKR 3 EZ**:
 - Run a cable from Z0 1B to ZAM 1B
 - Run a cable from Z0 2A to ZAM 2A
 - Run a cable from Z0 2B to ZAM 2B
-- 
+
 ### Wiring the second Z motor (Z1)
 - **Yes, the E1M port is correct.** You are using the second (unused) extruder port as a 5th Z stepper driver. Using ZBM just uses 1 driver for both Z ports, so Z_TILT will not function.
 - Run a cable from Z1 1A to E1M 1A
