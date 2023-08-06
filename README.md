@@ -42,7 +42,7 @@ Anycubic has reversed the stepper phase on the X motor for some Max printers. We
 - [Thermistor (extruder)](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/blob/main/installation/thermistor.md)
 - [Z Optical](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/blob/main/installation/z_optical.md) (you may skip this if using Klipper)
 - [Filament Runout Sensor](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/blob/main/installation/runout.md)
-- X Stop
+- [X Stop](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/blob/main/installation/xstop.md)
 - Y Stop
 - E Motor
 - X Motor (special note)
