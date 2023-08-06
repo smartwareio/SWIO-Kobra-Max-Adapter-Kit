@@ -9,4 +9,6 @@ From the **Swap Board** to the **SKR 3 EZ**:
 
 ![image](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/assets/139072083/7573405c-d88c-40df-a624-8bff1ed7a4a2)
 
+## Some motors from Anycubic have a reversed phase. The Swap Board kit accounts for this in order to correct it and standardize all motor cable pinouts across the machine. If however, you find that your motor is moving in the opposite direction, reverse one end of the connector.
+
 [Return to installation header](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/blob/main/README.md#wiring-the-swap-board)
