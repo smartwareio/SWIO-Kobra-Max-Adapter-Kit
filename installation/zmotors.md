@@ -20,8 +20,8 @@ From the **Swap Board** to the **SKR 3 EZ**:
 #### If you are using Klipper and the provided firmware, wiring in this manner will both support AND enable "Z_TILT".
 - Loosen the bearing retainers at the top of the frame
 - Loosen the Z sync belt couplers at the top
-- Gently pop off the belt and reasssemble the top side. We leave the GT2 cogs in place.
--- the printer will now sync the Z motors more accurately and perform additional tramming operations.
+- Gently pop off the belt and set it aside; do not reinstall it. Reasssemble the top side, leaving the GT2 cogs in place.
+- The printer will now sync the Z motors more accurately and perform additional tramming operations.
 
 ##### Some Z motors from Anycubic have a reversed phase. The Swap Board kit accounts for this in order to correct it and standardize all motor cable pinouts across the machine. If however, you find that your motor is moving in the opposite direction, reverse one end of the connector.
 
