@@ -26,7 +26,7 @@ Anycubic has reversed the stepper phase on the X motor for some Max printers. We
 ### If you are using the factory strain gauge and omitting the Extruder Board:
 
 - Install a logic level shifter such as the [Sparkfun BOB](https://www.sparkfun.com/products/12009).
-- See Wiring the Swap Board for instructions on how to use it.
+- See [Wiring the Swap Board](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/blob/main/installation/shifter_printhead.md) for instructions on how to use it.
 - **Most shifters do not have mounting provisions as they are tiny. You can hot glue it or modify the board adapter plate to have some tabs for it if you wish.**
 - **The level shifter is REQUIRED to be used with the factory print head. The factory head sends 5V out into the GPIO upon reset. The shifter brings this to safe levels.**
 
