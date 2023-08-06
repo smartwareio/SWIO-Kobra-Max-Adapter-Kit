@@ -46,7 +46,7 @@ Anycubic has reversed the stepper phase on the X motor for some Max printers. We
 - [Y Stop](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/blob/main/installation/ystop.md)
 - E Motor
 - X Motor (special note)
-- Y Motor
+- [Y Motor](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/blob/main/installation/ymotor.md)
 - Z0 Motor, Z1 Motor (and special note)
 - Factory Kobra Max connections
 - Factory strain gauge/toolhead & required Logic Level Shifter
