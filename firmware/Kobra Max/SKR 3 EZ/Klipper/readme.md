@@ -1,3 +1,3 @@
 - [Stock Printhead](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/tree/main/firmware/Kobra%20Max/SKR%203%20EZ/Klipper/Stock%20Printhead) folder is for machines using the **Swap Board** and the **factory Anycubic print head assembly, including the strain gauge**.
-- Aftermarket Printhead folder is for machines using direct drives, touch probes, etc via the **Extruder Board**.
+- Other printhead folders are for machines using direct drives, touch probes, etc via the **Extruder Board**.
 - The SKR 3 EZ has now shipped (confirmed) with two different CPUs. Please use the file for the CPU model that is written on _your particular_ mainboard.
