@@ -46,3 +46,7 @@ Anycubic has reversed the stepper phase on the X motor for some Max printers. We
 - Factory Kobra Max connections
 - [Factory strain gauge/toolhead & required Logic Level Shifter](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/blob/main/installation/shifter_printhead.md)
 - Factory NF103 Heater Board
+
+  ##### Printer Profiles
+
+  - Check out the [Cura Project Files](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/tree/main/CuraProjectProfiles) folder for some premade profiles that we have been using and fine tuning for several months.
