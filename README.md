@@ -9,13 +9,13 @@
 - Some 20-22ga stranded wire. Ribbon cable that comes with Dupont kits is hit or miss here. For the heater jumper, we recommend that you use 20-22AWG silicone (high heat) wire.
 - _Optional, but recommended_: A ferrule crimper and ferrules for shortening or attaching multiple conductors together
 
-[**Recommended crimper and JST kit here** (Amazon)](https://a.co/d/1XShu2j)
+[**Recommended crimper and JST kit here** (Amazon)](https://amzn.to/3KvIH76)
 
-[**Recommended cable for 2-wire connections here** (Amazon)](https://a.co/d/a2KRyb4)
+[**Recommended cable for 2-wire connections here** (Amazon)](https://amzn.to/3Qx5LGw)
 
-[**Recommended cable for 4-wire connections here** (Amazon)](https://a.co/d/iKrw6fq)
+[**Recommended cable for 4-wire connections here** (Amazon)](https://amzn.to/3OPArBC)
 
-[**Ferrule and crimper kit**](https://a.co/d/f5aQqXo)
+[**Ferrule and crimper kit**](https://amzn.to/3qjfENh)
 
 Start by selecting a board. **We recommend using the BTT SKR 3 EZ.** The pinout and wiring diagrams will be provided here.
 
@@ -25,7 +25,7 @@ Anycubic has reversed the stepper phase on the X motor for some Max printers. We
 
 ### If you are using the factory strain gauge and omitting the Extruder Board:
 
-- Install a logic level shifter such as the [Sparkfun BOB](https://www.sparkfun.com/products/12009).
+- Install a logic level shifter such as the [Sparkfun BOB](https://amzn.to/3QuQJ40).
 - See [Wiring the Swap Board](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/tree/main#wiring-the-swap-board) for instructions on how to use it.
 - **Most shifters do not have mounting provisions as they are tiny. You can hot glue it or modify the board adapter plate to have some tabs for it if you wish.**
 - **The level shifter is REQUIRED to be used with the factory print head. The factory head sends 5V out into the GPIO upon reset. The shifter brings this to safe levels.**
