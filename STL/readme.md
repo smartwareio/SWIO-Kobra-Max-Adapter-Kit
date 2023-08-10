@@ -1,4 +1,9 @@
-Here you will find pre-made STLs to print for mounting various boards and solutions.
+# Links to printable models developed specifically for this project below.
+
+[Kobra Max top mounted filament sensor bracket](https://than.gs/m/916211)
+
+
+## Models hosted here are going to be replaced with Thangs links, due to the easy ability to revision them and track downloads used.
 
 The NF103 mount will slot the JST adapter board next to the NF103 (bed heater board). If you are using an SKR board (any SKR board), you may omit the NF103. If you DO install the NF103, be sure to print the spacer and put it between the board and mount. This is to prevent the mounting screws from hitting anything under the board.
 
