@@ -4,6 +4,7 @@
 
 ## You will need:
 
+- To purchase or print a set of adapter plates [See the STL section](https://github.com/smartwareio/SWIO-Kobra-Max-Adapter-Kit/tree/main/STL) **If you are self-printing adapters, you will also need heat-sets, which are linked on the model descriptions)
 - A pair of JST crimpers
 - A set of JST-XH connectors and pins
 - Some 20-22ga stranded wire. Ribbon cable that comes with Dupont kits is hit or miss here. For the heater jumper, we recommend that you use 20-22AWG silicone (high heat) wire.
