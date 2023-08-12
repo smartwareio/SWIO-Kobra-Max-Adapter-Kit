@@ -4,6 +4,8 @@
 
 [Various bearing-driven spool holders, including two specifically for the Kobra Max (top mount, side mount)](https://than.gs/m/850530)
 
+[Kobra Max adapter plates to mount the SKR3 and SWIO Swap/Extruder Boards](https://than.gs/m/917034)
+
 ## Models hosted here are going to be replaced with Thangs links, due to the easy ability to revision them and track downloads used.
 
 The NF103 mount will slot the JST adapter board next to the NF103 (bed heater board). If you are using an SKR board (any SKR board), you may omit the NF103. If you DO install the NF103, be sure to print the spacer and put it between the board and mount. This is to prevent the mounting screws from hitting anything under the board.
