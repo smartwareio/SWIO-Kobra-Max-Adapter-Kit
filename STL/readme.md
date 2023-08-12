@@ -1,6 +1,6 @@
 # Links to printable models developed specifically for this project below.
 
-[Kobra Max top mounted filament sensor bracket](https://than.gs/m/916211)
+[Kobra Max top mounted filament sensor bracket](https://than.gs/m/916912)
 
 [Various bearing-driven spool holders, including two specifically for the Kobra Max (top mount, side mount)](https://than.gs/m/850530)
 
