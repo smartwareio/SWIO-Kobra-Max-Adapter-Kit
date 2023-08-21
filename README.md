@@ -22,7 +22,9 @@ Start by selecting a board. **We recommend using the BTT SKR 3 EZ.** The pinout 
 
 Be sure to match GND to GND on your board for every connection. The Smartware boards are marked, but not all printer boards are. You will need to refer to the [_pin schedule_](https://github.com/bigtreetech/SKR-3/blob/master/Hardware%20(SKR%203%20EZ)/BIGTREETECH%20SKR%203%20EZ%20V1.0-PIN.pdf) for your particular board to ensure that this is correct. **Getting these wrong or reversed will result in errors and improper machine operation.**
 
-Anycubic has reversed the stepper phase on the X motor for some Max printers. We have corrected for this in the adapter board, but your milage may vary here. If your X stepper moves in the wrong direction, you will need to reverse one connector end for your motor.
+Anycubic has reversed the stepper phase on the some motors for some Max printers. We have corrected for this in the adapter board, but your milage may vary here. If your stepper moves in the wrong direction, you will need to reverse one connector end for your motor. Our boards account for the Max we have available for development and have made all cables "striaght-through" style.
+
+**The factory display is not going to work with this kit directly. There are mods that can be done, but we do not support them.**
 
 ### If you are using the factory strain gauge and omitting the Extruder Board:
 
