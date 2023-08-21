@@ -8,7 +8,7 @@
 - A pair of JST crimpers
 - A set of JST-XH connectors and pins
 - Some 20-22ga stranded wire. Ribbon cable that comes with Dupont kits is hit or miss here. For the heater jumper, we recommend that you use 20-22AWG silicone (high heat) wire.
-- _Optional, but recommended_: A ferrule crimper and ferrules for shortening or attaching multiple conductors together
+- _Optional, but recommended_: A ferrule crimper and ferrules for shortening or attaching multiple conductors together. You will likely need these for the cables on the NF103 bed heater board.
 
 [**Recommended crimper and JST kit here** (Amazon)](https://amzn.to/3KvIH76)
 
